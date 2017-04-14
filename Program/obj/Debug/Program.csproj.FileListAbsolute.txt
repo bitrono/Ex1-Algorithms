@@ -1,0 +1,13 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Program\bin\Debug\Program.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Program\bin\Debug\Program.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Program\bin\Debug\Program.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Program\bin\Debug\Ex1.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Program\bin\Debug\MazeGeneratorLib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Program\bin\Debug\MazeLib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Program\bin\Debug\Academy.Collections.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Program\bin\Debug\Ex1.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Program\bin\Debug\Academy.Collections.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Program\bin\Debug\Academy.Collections.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Program\obj\Debug\Program.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Program\obj\Debug\Program.pdb

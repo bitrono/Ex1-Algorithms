@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Ex1\bin\Release\Ex1.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Ex1\bin\Release\Ex1.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Ex1\bin\Release\Academy.Collections.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Ex1\bin\Release\Academy.Numerics.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Ex1\bin\Release\Academy.Collections.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Ex1\bin\Release\Academy.Collections.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Ex1\bin\Release\Academy.Numerics.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Ex1\bin\Release\Academy.Numerics.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Ex1\obj\Release\Ex1.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Ex1\obj\Release\Ex1.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Ex1\Ex1\obj\Release\Ex1.csprojResolveAssemblyReference.cache
